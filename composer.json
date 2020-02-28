@@ -19,6 +19,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "psr/cache": "^1.0",
         "symfony/event-dispatcher": "~5.0 || ~4.0 || ~3.0",
+        "symfony/event-dispatcher-contracts": "^2",
         "psr/log": "^1.0",
         "guzzlehttp/promises": "^1.3"
     },
